@@ -19,5 +19,4 @@ This document summarizes all packages generated from the Javadocs for the course
 
 ---
 
-**Note:** Ensure that all packages have descriptive names and associated details to improve code clarity and usability.
 
